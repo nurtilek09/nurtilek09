@@ -8,8 +8,8 @@
 - **Git**
 
 ## 📂 Мои проекты:
-- [GitHub профиль](https://github.com/nurtilek09): Здесь вы найдете мои проекты.
-
+ Online Shop Cross  https://github.com/Alisher004/Online-shop-cross
+ Bilim Ordo Frontend https://github.com/okurmenpro/bilim-ordo-frontend
 ## 📬 Контакты:
 - **Email:** nurtileknurlanbekov162@gmail.com
 - **Телефон:** +996 (502) 23-70-53, +996 (706) 23-70-53
