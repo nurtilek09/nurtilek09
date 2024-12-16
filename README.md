@@ -1,16 +1,18 @@
-## Hi there 👋
+# Здравствуйте, я Нурланбеков Нуртилек 👋
+Я front-end разработчик, создающий современные и удобные веб-приложения.
 
-<!--
-**nurtilek09/nurtilek09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Мои навыки:
+- **HTML, CSS, JavaScript**
+- **React**
+- **Sass**
+- **Git**
 
-Here are some ideas to get you started:
+## 📂 Мои проекты:
+- [GitHub профиль](https://github.com/nurtilek09): Здесь вы найдете мои проекты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Контакты:
+- **Email:** nurtileknurlanbekov162@gmail.com
+- **Телефон:** +996 (502) 23-70-53, +996 (706) 23-70-53
+- **Telegram:** [@nurlanbekov000](https://t.me/nurlanbekov000)
+
+
